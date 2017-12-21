@@ -1,0 +1,24 @@
+.bg-1{
+	background-image: url(http://static.boredpanda.com/blog/wp-content/uploads/2016/08/avocado-food-decoration-art-roses-colette-dike-22-57bbfa8d47f19__700.jpg);
+	/*background-color: #99FF99;*/
+	color: #ffffff; 
+}
+
+.bg-2{
+	background-image: url(http://www.fooddeco.nl/wp-content/uploads/2016/07/IMG_6094.jpg);
+	/*background-color: #474e5d;*/
+	color: #ffffff;
+}
+.container-fluid{
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+form{
+	width: 500px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+a{
+	color: white;
+}
